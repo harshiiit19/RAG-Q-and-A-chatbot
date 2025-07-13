@@ -13,7 +13,7 @@ FAISS_INDEX_PATH = 'loan_faiss_index.bin'
 DOCUMENTS_PATH = 'loan_documents.pkl'
 EMBEDDING_MODEL_NAME = 'all-MiniLM-L6-v2' 
 GEMINI_API_URL = "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent"
-GEMINI_API_KEY = "enter the gemini api key" 
+GEMINI_API_KEY = "AIzaSyAnF0YIQXSZhHzktuBAEbnCiDZZgQgeZ-Y" 
 
 # --- Helper Functions ---
 
