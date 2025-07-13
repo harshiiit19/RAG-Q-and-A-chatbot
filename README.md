@@ -13,3 +13,6 @@ Contextual Retrieval: When a user asks a question, the application converts the 
 AI-Powered Answering: The retrieved relevant information (context) along with the user's question is then sent to the Gemini 2.0 Flash API. The AI model uses this context to generate a precise answer, explicitly stating if it cannot provide a precise answer based on the available data.
 
 This setup ensures that the chatbot's responses are grounded in the provided loan data, making it a reliable tool for quickly extracting insights from the dataset.
+
+
+Link :- https://rag-q-and-a-chatbot-abappxega6vecfemc5dut3v.streamlit.app/
