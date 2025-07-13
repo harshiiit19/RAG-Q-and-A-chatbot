@@ -1,7 +1,7 @@
-streamlit
 pandas
-faiss
-numpy
-pickle
-requests
-sentence_transformers
+faiss-cpu
+sentence-transformers
+transformers
+accelerate
+torch
+streamlit
