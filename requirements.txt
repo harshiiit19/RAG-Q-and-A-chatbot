@@ -1,0 +1,7 @@
+streamlit
+pandas
+faiss
+numpy
+pickle
+requests
+sentence_transformers
